@@ -1,3 +1,6 @@
+<!--라우터 설치하기-->
+
+
 <template>
 <!-- 3. props사용 -->
 <Modal :원룸들="원룸들" :clicknum="clicknum" :모달창 ="모달창" 
